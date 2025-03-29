@@ -4,7 +4,7 @@ A simple server that acts as a proxy for fetching datas on NASA API.
 
 ## Setup
 
--   Clone the repository: `git clone `
+-   Clone the repository: `git clone https://github.com/Ianel/nasa-project-backend.git`
 -   Install the dependencies: `npm install`
 -   Create a .env file:
 
